@@ -1,0 +1,6 @@
+com\example\jpaCrud\Controllers\UsuarioController.class
+com\example\jpaCrud\Repositories\UsuarioRepository.class
+com\example\jpaCrud\Models\UsuarioModel.class
+com\example\jpaCrud\JpaCrudApplication.class
+com\example\jpaCrud\ServletInitializer.class
+com\example\jpaCrud\Services\UsuarioService.class
